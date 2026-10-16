@@ -1,1 +1,1 @@
-Welcome to my first profile.md!
+Welcome to my GitHub profile!
